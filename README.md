@@ -4,6 +4,7 @@
 
 <!-- backlink-building:github-repository:start -->
 ### niew.ai
+- [AI Generated Music Still Can't Replace Human Judgment](niew.ai/ai-generated-music-still-can-t-replace-human-judgment.md)
 - [AI Lyric Generator: Why Structure Beats Substitution](niew.ai/ai-lyric-generator-why-structure-beats-substitution.md)
 - [AI Melody Transfer Works Because It Preserves the Song You Already Heard](niew.ai/ai-melody-transfer-works-because-it-preserves-the-song-you-already-heard.md)
 - [AI Music Generator Controls: Why Controllability Beats One-Click Songs](niew.ai/ai-music-generator-controls-why-controllability-beats-one-click-songs.md)

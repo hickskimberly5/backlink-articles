@@ -4,6 +4,7 @@
 
 <!-- backlink-building:github-repository:start -->
 ### niew.ai
+- [AI Lyric Generator: Why Structure Beats Substitution](niew.ai/ai-lyric-generator-why-structure-beats-substitution.md)
 - [AI Melody Transfer Works Because It Preserves the Song You Already Heard](niew.ai/ai-melody-transfer-works-because-it-preserves-the-song-you-already-heard.md)
 - [AI Music Generator Controls: Why Controllability Beats One-Click Songs](niew.ai/ai-music-generator-controls-why-controllability-beats-one-click-songs.md)
 - [AI Music Prompts: Why Specific Descriptions Create Better Songs](niew.ai/ai-music-prompts-why-specific-descriptions-create-better-songs.md)
